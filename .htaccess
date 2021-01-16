@@ -1,0 +1,2 @@
+ErrorDocument 404 https://idevesh.github.io/src/404.html
+Options -Indexes
