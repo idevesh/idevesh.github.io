@@ -1,28 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://idevesh.github.io/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<urlset>
 
 <url>
   <loc>https://idevesh.github.io/</loc>
-  <lastmod>2020-04-04T22:00:42+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2021-01-19T16:13:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://idevesh.github.io/assets/Devesh_Pratap_Singh_Resume.pdf</loc>
-  <lastmod>2020-04-04T22:00:42+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2021-01-19T16:13:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
-</urlset>	
 
-
-</sitemapindex>
+</urlset>
