@@ -43,8 +43,6 @@ You will need the following things properly installed on your computer.
 
 * Formspree for form - https://formspree.io/
 
-* PayU for Payments - https://payu.in/ 
-
 * Feather Icons - https://package.elm-lang.org/packages/1602/elm-feather/1.0.2/FeatherIcons
 
 <br/>
