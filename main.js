@@ -6,7 +6,7 @@ console.log(`/*
 * 
 * Oh hello there, Mr. Hacker !! , so you want to see some code? 
 * Sure thing,
-* Drop an email at dev@sarthakj.me
+* Drop an email at deveshps107@gmail.com
 * 
 * 
 */
@@ -152,7 +152,7 @@ function ExpandShrink() {
 
 
 function newRedirect() {
-  if (window.location.href == 'https://www.sarthakj.me/github') {
-    window.location.href = "https://github.com/sarthak-1998";
+  if (window.location.href == 'https://idevesh.in') {
+    window.location.href = "https://github.com/idevesh";
   }
 }
