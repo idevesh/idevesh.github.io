@@ -1,4 +1,4 @@
-ErrorDocument 404 https://idevesh.com
+ErrorDocument 404 https://idevesh.in
 Options -Indexes
 RewriteEngine On
 RewriteCond %{HTTPS} off

@@ -1,4 +1,4 @@
-# Interactive Resume Website - **https://idevesh.com**
+# Interactive Resume Website - **https://idevesh.in**
 
 <p> ---------------------------------------------------------------------</p>
 
